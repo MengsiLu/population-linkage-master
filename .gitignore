@@ -1,0 +1,12 @@
+syntax: glob
+
+*.iml
+target
+.idea
+application-local.properties
+application.properties
+*.csv
+*.meta
+src/main/scripts/R/.Rhistory
+!/properties/application.properties
+!/src/main/scripts/R/.RData
